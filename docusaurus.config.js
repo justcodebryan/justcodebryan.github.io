@@ -40,7 +40,7 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          editUrl: "https://github.com/justcodebryan/blog/tree/main",
+          editUrl: "https://github.com/justcodebryan/blog/tree/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
