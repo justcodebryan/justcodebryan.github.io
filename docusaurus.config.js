@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "justcodebryan's blog",
-  tagline: "Dinosaurs are cool",
+  tagline: "Just Code",
   url: "https://justcodebryan.github.io/",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -34,10 +34,10 @@ const config = {
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/justcodebryan/blog/tree/main/",
-        },
+        // docs: {
+        //   sidebarPath: require.resolve("./sidebars.js"),
+        //   editUrl: "https://github.com/justcodebryan/blog/tree/main/",
+        // },
         blog: {
           showReadingTime: true,
           editUrl: "https://github.com/justcodebryan/blog/tree/main/",
@@ -59,12 +59,12 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
-          {
-            type: "doc",
-            docId: "intro",
-            position: "left",
-            label: "Tutorial",
-          },
+          // {
+          //   type: "doc",
+          //   docId: "intro",
+          //   position: "left",
+          //   label: "Tutorial",
+          // },
           { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/justcodebryan",
