@@ -1,8 +1,8 @@
 ---
-slug: js变量提升问题
-title: js变量提升问题
+slug: Js变量提升问题
+title: Js变量提升问题
 authors: [justcodebryan]
-tag: [javascript]
+tags: [javascript]
 ---
 
 `JavaScript`中的变量提升问题是一个很常见的面试题目，在阅读《你不知道的 JavaScript》这本书又有了新的感悟。
