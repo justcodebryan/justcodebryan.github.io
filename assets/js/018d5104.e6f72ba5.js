@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjustcodebryan_github_io=self.webpackChunkjustcodebryan_github_io||[]).push([[9707],{5792:s=>{s.exports=JSON.parse('{"permalink":"/blog/tags/css","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"All posts"}')}}]);
