@@ -1,5 +1,5 @@
 ---
-slug: 浅谈输入URL到显示网站部分问题
+slug: enter-url-question
 title: 浅谈输入URL到显示网站部分问题
 authors: [justcodebryan]
 tags: [browser-core]

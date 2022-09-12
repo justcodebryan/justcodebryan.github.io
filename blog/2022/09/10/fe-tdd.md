@@ -1,5 +1,5 @@
 ---
-slug: 前端TDD初探
+slug: fe-tdd
 title: 前端TDD初探
 authors: [justcodebryan]
 tags: [Front-end Engineering]

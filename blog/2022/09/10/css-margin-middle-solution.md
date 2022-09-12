@@ -1,5 +1,5 @@
 ---
-slug: CSS 居中方案
+slug: css-margin-middle-solution
 title: CSS 居中方案
 authors: [justcodebryan]
 tags: [CSS]

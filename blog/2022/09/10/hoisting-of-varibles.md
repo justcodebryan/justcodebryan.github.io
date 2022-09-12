@@ -1,5 +1,5 @@
 ---
-slug: Js变量提升问题
+slug: hoisting-of-varibles
 title: Js变量提升问题
 authors: [justcodebryan]
 tags: [javascript]
